@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">PharmacyLc</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha">Senha</string>
+    <string name="cadastre_se">cadastre-se</string>
+    <string name="n_o_possui_uma_conta">Não Possui Uma Conta?</string>
+    <string name="email">Email</string>
+    <string name="entrar_button_login">Entrar</string>
+    <string name="entrar_cadastro">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="text_cadastre_se">Cadastre-se</string>
+    <string name="j_possui_uma_conta">Já Possui Uma Conta?</string>
+    <string name="Primeira_senha">Senha</string>
+    <string name="segunda_senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="primeira_senha">Senha</string>
+    <string name="campo_email">Email</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+
+    <string name="first_slide">Escolha Seus Produtos</string>
+    <string name="second_slide">Entrega Rápida</string>
+    <string name="third_slide">Bom Atendimento</string>
+
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="todo">TODO</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="vamos_come_ar">Vamos Começar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo_categoria_list">TODO</string>
+    <string name="category_name">Category Name</string>
+    <string name="category">Category</string>
+    <string name="we_provide_best_products">We provide best products.</string>
+    <string name="see_all">See All</string>
+    <string name="see_all1">See All</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="provide_best_products">We provide best products.</string>
+    <string name="new_products">New Products</string>
+    <string name="see_all2">See All</string>
+    <string name="categorias">categorias</string>
+    <string name="fornecemos_os_melhores_produtos">fornecemos os melhores produtos</string>
+    <string name="fornecemos_os_melhores_produtos2">fornecemos os melhores produtos</string>
+    <string name="ver_todos">Ver todos</string>
+    <string name="ver_todos2">Ver todos</string>
+    <string name="novos_produtos">Novos Produtos</string>
+    <string name="produtos_populares">Produtos populares</string>
+    <string name="ver_todos3">Ver todos</string>
+    <string name="pre_o">preço: $</string>
+    <string name="todoo">TODO</string>
+    <string name="_90">90</string>
+    <string name="product_name">Product Name</string>
+    <string name="novo">Novo</string>
+    <string name="preco">Preço</string>
+    <string name="produto">produto</string>
+    <string name="title_activity_pharmacy_lc">PharmacyLcActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Carrinho</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
